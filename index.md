@@ -18,3 +18,9 @@ stuff goes here...
     $SourcePattern = '^(?<Source>(own|hoopla|library|unlimited))$'
     $BlankLinePattern = '(?<BlankLine>^$)'
 ```
+
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
